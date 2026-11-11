@@ -10,3 +10,4 @@ constexpr int  DISHWASHER_LOADS_PER_WEEK = 3;
 constexpr bool REMEMBERS_MOTHER_IN_LAW_BIRTHDAY = true;
 constexpr int  MAX_GAMING_HOURS_PER_WEEK = 6;
 constexpr bool ASKS_FOR_DIRECTIONS = true;
+constexpr int  SAYS_I_LOVE_YOU_PER_DAY = 1;
